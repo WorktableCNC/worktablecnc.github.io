@@ -1,2 +1,4 @@
-# worktablecnc.github.io
-Worktable CNC, LLC
+Worktable CNC, LLC  
+Oregon USA
+
+http://worktablecnc.us
